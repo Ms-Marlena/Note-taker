@@ -15,5 +15,5 @@ Install the dependencies, seed the database, and start the application with "nod
 ## Usage
 From the web page, click the "add" (plus) button, then type your note and click the "save" icon. T
 
-    ![alt text](assets/images/screenshot.png)
+![screenshot of home and note-taking pages](assets/screenshot.png)
 
